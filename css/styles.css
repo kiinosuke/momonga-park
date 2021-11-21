@@ -124,13 +124,15 @@ footer {
 @media (min-width: 767px){
 body {
     text-align: center;
-    margin: 0 5vw;
+    margin: 0;
 }
 
 /* header */
 
 header {
     justify-content: space-evenly;
+    margin: 0;
+    padding: 0;
 }
 
 .site-title h1 {
